@@ -1,0 +1,6 @@
+train: ../smalldataset  # put training dataset directory here
+val: ../smalldataset # put validation dataset directory here
+# number of classes
+nc: 43
+# class names
+names: ['Acartia', 'Aegina', 'Aglantha', 'Amphipoda', 'Beroe', 'Blob', 'Bolinopsis', 'Calanus', 'Calyptopis', 'Chaetognatha', 'Clione', 'Clytia', 'Cnidaria', 'Cope_lg', 'Cope_sm', 'Ctenophora', 'Doliolida', 'Dot', 'Eucalanus', 'Euphausiid', 'Filament', 'Filaments', 'Furcilia', 'Larvacea', 'Limacina', 'Metridia', 'Nauplius', 'Neocalanus', 'Oikopleura', 'Oithona', 'Paraeuchaeta', 'Pleurobrachia', 'Pluteus', 'Polychaeta', 'Pseudocalanus', 'Radiolarian', 'Siphonophora', 'Snow', 'Spionidae', 'Spiral', 'Tentacle', 'Tentacles', 'Unknown']
